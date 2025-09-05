@@ -1,4 +1,4 @@
-<img align="center" alt="testing" width="1000" src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif">
+
 <h1 align="center">Hi 👋, I'm Divyasree Karthikeyan</h1>
 <h3 align="center">I am passionate about ensuring software quality through effective manual and automation testing.</h3>
 <img align="right" alt="testing" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif">
