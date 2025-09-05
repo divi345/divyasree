@@ -14,13 +14,18 @@
 
 <h3 align="left">Projects:</h3>
 
-### 1. [Rapido Mobile App Testing Project](#)
-Created 70+ test cases covering login, ride booking, payment, tracking, notifications, and trip history. Designed Test Plan, Test Scenarios, Bug Report, and Test Summary. Reported 12 defects with severity and priority analysis.  
-- **Technologies**: Manual Testing, Test Plan, Bug Report, Test Summary
+### 1. Rapido Mobile App Testing Project
+- Created **70+ test cases** covering Login, Ride Booking, Payment, Tracking, Notifications, and Trip History modules.
+- Designed **Test Plan, Test Scenarios, Bug Report, and Test Summary**.
+- Reported **12 defects** with detailed severity and priority analysis.
+- **Technologies/Tools:** Manual Testing, Test Plan, Bug Report, Test Summary
 
-### 2. [Flipkart Website Testing Project](#)
-Performed manual testing of Flipkart modules including Login, Search, Cart, Wishlist, Checkout, and Payment. Executed 92 test cases, validated workflows, and ensured cross-browser compatibility.  
-- **Technologies**: Manual Testing, Functional Testing, UI/UX Testing
+### 2. Flipkart Website Testing Project
+- Performed **manual testing** of Flipkart modules: Login, Search, Cart, Wishlist, Checkout, and Payment.
+- Executed **92 test cases**, validated workflows, and ensured **cross-browser compatibility**.
+- Verified **UI/UX, responsiveness, and functional flows**.
+- **Technologies/Tools:** Manual Testing, Functional Testing, UI/UX Testing
+
 
 <h3 align="left">Skills & Tools:</h3>
 <p align="left"> 
@@ -28,10 +33,6 @@ Performed manual testing of Flipkart modules including Login, Search, Cart, Wish
 <b>Manual Testing:</b> Test Plan, Test Scenarios, Test Cases, Bug Report, Defect Tracking, Test Summary, Agile, Smoke Testing, Regression Testing  
 <br><br>
 <b>Automation Testing:</b> Selenium WebDriver, TestNG, Page Object Model (POM), Jenkins, Data-Driven Testing  
-
-<br><br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 
 </p>
 
