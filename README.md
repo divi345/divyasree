@@ -31,7 +31,7 @@
 <p align="left"> 
 
 <b>Manual Testing:</b> Test Plan, Test Scenarios, Test Cases, Bug Report, Defect Tracking, Test Summary, Agile, Smoke Testing, Regression Testing  
-<br><br>
+<br>
 <b>Automation Testing:</b> Selenium WebDriver, TestNG, Page Object Model (POM), Jenkins, Data-Driven Testing  
 
 </p>
