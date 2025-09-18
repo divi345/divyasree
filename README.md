@@ -14,13 +14,20 @@
 
 <h3 align="left">Projects:</h3>
 
-### 1. Rapido Mobile App Testing Project
+### 1. OrangeHRM Automation Testing Project
+- Automated **Leave Management, PIM, and Admin modules** using **Selenium WebDriver with Java**.  
+- Implemented **Page Object Model (POM)** and **TestNG framework** for structured test execution.  
+- Developed **80+ automated test cases** for login, employee management, leave entitlement, and reports.  
+- Integrated **Extent Reports** for detailed logging and screenshots of pass/fail test cases.  
+- **Technologies/Tools:** Selenium WebDriver, Java, TestNG, Extent Reports, Page Object Model (POM), GitHub  
+
+### 2. Rapido Mobile App Testing Project
 - Created **70+ test cases** covering Login, Ride Booking, Payment, Tracking, Notifications, and Trip History modules.
 - Designed **Test Plan, Test Scenarios, Bug Report, and Test Summary**.
 - Reported **12 defects** with detailed severity and priority analysis.
 - **Technologies/Tools:** Manual Testing, Test Plan, Bug Report, Test Summary
 
-### 2. Flipkart Website Testing Project
+### 3. Flipkart Website Testing Project
 - Performed **manual testing** of Flipkart modules: Login, Search, Cart, Wishlist, Checkout, and Payment.
 - Executed **92 test cases**, validated workflows, and ensured **cross-browser compatibility**.
 - Verified **UI/UX, responsiveness, and functional flows**.
